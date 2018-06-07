@@ -1,0 +1,13 @@
+---
+# vars file for lamp2
+#redhat_lamp2_packages:
+#  - httpd
+#  - mariadb-server
+#  - php
+
+#debian_lamp2_packages:
+#  - apache2
+# - mariadb-server
+#  - php
+#voir fichiers de variables RedHat.yml et Debian.yml
+
